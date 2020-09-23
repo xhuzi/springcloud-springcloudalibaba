@@ -6,5 +6,6 @@ public class Test1 {
         System.out.println("hello");
 
         System.out.println("分支修改");
+        System.out.println("很nice");
     }
 }
