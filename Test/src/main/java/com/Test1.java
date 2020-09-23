@@ -7,5 +7,9 @@ public class Test1 {
 
         System.out.println("分支修改");
         System.out.println("很nice");
+
+        System.out.println("主分支再次修改");
+
+        System.out.println("分支再次修改");
     }
 }
